@@ -39,3 +39,7 @@ All props have default value.
 |  :fontColor | font color of each item. Ex: #000|
 |  :fontSize | font size of each item. Ex: 22px |
 |  :size | width and height of each item. Ex: 50px |
+
+
+## License
+vue-accessibility-list is licensed under The MIT License.
