@@ -1,19 +1,12 @@
 # vue-accessibility-list
 
-## Project setup
-```
-npm install
-```
+An accessibility list for your project with the options: increase / decrease font and high contrast.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Demo
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![alt text](https://atividadeon.com.br/static/img/vueaccesslist.gif)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Installation
+```
+$ npm install vue-accessibility-list
+```
