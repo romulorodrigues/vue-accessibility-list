@@ -31,4 +31,11 @@ new Vue({
 ```
 All props have default value.
 
-### Description of use
+### Description of props
+| Props  |  Description |
+| ------------------- | ------------------- |
+|  :position |  left or right |
+|  :backgroundColor |  background color of each item. Ex: #f9f9f9 |
+|  :fontColor | font color of each item. Ex: #000|
+|  :fontSize | font size of each item. Ex: 22px |
+|  :size | width and height of each item. Ex: 50px |
