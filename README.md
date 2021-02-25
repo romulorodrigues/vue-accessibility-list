@@ -4,7 +4,7 @@ An accessibility list for your project with the options: increase / decrease fon
 
 ## Demo
 
-![alt text](https://atividadeon.com.br/static/img/vueaccesslist.gif)
+![alt text](https://romulodevweb.com.br/wp-content/uploads/2020/10/68747470733a2f2f6174697669646164656f6e2e636f6d2e62722f7374617469632f696d672f7675656163636573736c6973742e676966-1.gif)
 
 ## Installation
 
